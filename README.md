@@ -1,5 +1,5 @@
 # Sup_LinearRegression
 
-Objective:
+**Objective:**
 --To perform Linear Regression using Python using a single and multi-variable
 --Discuss the strengths and weaknesses of the models
